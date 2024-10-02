@@ -1,0 +1,5 @@
+
+
+USE master
+DROP DATABASE IF EXISTS KulüpYönetimi
+CREATE DATABASE KulüpYönetimi
